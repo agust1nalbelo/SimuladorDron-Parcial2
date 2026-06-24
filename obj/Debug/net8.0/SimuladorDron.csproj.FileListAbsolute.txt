@@ -25,3 +25,4 @@ C:\Users\agust\OneDrive\Desktop\SimuladorDeDron-Parcial\obj\Debug\net8.0\refint\
 C:\Users\agust\OneDrive\Desktop\SimuladorDeDron-Parcial\obj\Debug\net8.0\SimuladorDron.pdb
 C:\Users\agust\OneDrive\Desktop\SimuladorDeDron-Parcial\obj\Debug\net8.0\SimuladorDron.genruntimeconfig.cache
 C:\Users\agust\OneDrive\Desktop\SimuladorDeDron-Parcial\obj\Debug\net8.0\ref\SimuladorDron.dll
+C:\Users\agust\OneDrive\Desktop\SimuladorDeDron-Parcial\obj\Debug\net8.0\SimuladorDron.sourcelink.json
